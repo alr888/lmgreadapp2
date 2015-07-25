@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "lmgreadapp2"
+  },
+  "hostingPlanName": {
+    "value": "MyexamplePlan"
+  },
+  "siteLocation": {
+    "value": "Australia Southeast"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "lmgdb"
+  },
+  "serverLocation": {
+    "value": "Southeast Asia"
+  },
+  "administratorLogin": {
+    "value": "reyesa"
+  },
+  "administratorLoginPassword": {
+    "value": "Manila01"
+  },
+  "databaseName": {
+    "value": "lmgreadapp2_db"
+  }
+}
